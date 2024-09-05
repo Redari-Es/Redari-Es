@@ -8,10 +8,12 @@
 </p>
 
 <h1 align="center">RESUME</h1>
+
 ## Contact Me
+
 > Email: shonh@ausc.xyz
 
-#Project
+## Project
 |Project Name|desc|
 |-|-|
 |Travel UI UX|[旅游营销页面](https://github.com/Redari-Es/travel_app_ui_ux)|
